@@ -1,0 +1,26 @@
+{
+  "name": "staticbusinesswebsite",
+  "version": "1.0.0",
+  "description": "for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camassandra/staticBusinessWebsite.git"
+  },
+  "keywords": [
+    "mama",
+    "maroeska"
+  ],
+  "author": "camilla e arne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camassandra/staticBusinessWebsite/issues"
+  },
+  "homepage": "https://github.com/camassandra/staticBusinessWebsite#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
